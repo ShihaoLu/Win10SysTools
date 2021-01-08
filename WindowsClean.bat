@@ -1,5 +1,3 @@
-@echo off
-
 del /f/s/q %systemdrive%\*.tmp
 
 del /f/s/q %systemdrive%\*._mp
@@ -26,6 +24,6 @@ del /f/q %userprofile%\recent\*.*
 
 rd /s/q \“%userprofile%\Local S.ttings\Temp.rary internet Files\”
 
-cls & echo 系统垃圾清除完成:)
+cls & echo 系统垃圾清除完成
 
 echo. & pause
