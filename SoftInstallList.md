@@ -16,6 +16,10 @@
 
     https://totalcommander.ch/win/fixed/tcmd951x64.exe
 
+7. 滴答清单
+
+    https://cdn.dida365.com/download/win64/dida_win_setup_x64_release_3771.exe
+
 6. VSCode
 
     https://az764295.vo.msecnd.net/stable/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/VSCodeUserSetup-x64-1.52.1.exe
