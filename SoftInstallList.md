@@ -43,9 +43,13 @@
 
     https://az764295.vo.msecnd.net/stable/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/VSCodeUserSetup-x64-1.52.1.exe
 
-2. VitualStudio
+2. Vitual Studio 2019
 
-    https://visualstudio.microsoft.com/zh-hans/thank-you-downloading-visual-studio/?sku=Community&rel=16
+    blob:https://visualstudio.microsoft.com/a7f98431-1688-419f-b698-8f79723a739d
+
+3. Qt Visual Studio Tools
+
+    https://theqtcompany.gallerycdn.vsassets.io/extensions/theqtcompany/qtvisualstudiotools2019/2.6.0.7/1602967812719/qt-vsaddin-msvc2019-2.6.0-rev.07.vsix
 
 3. Git & TortoiseGit
 
@@ -60,4 +64,11 @@
 5. XShell & XFtp
 
     百度网盘
+
+6. Docker
+
+    安装完成后需要配置Win10的WSL2功能：参照以下网站的“手动安装步骤”进行操作完成
+
+    https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+    
 
