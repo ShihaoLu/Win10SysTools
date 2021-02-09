@@ -34,7 +34,9 @@
 
     https://admdownload.adobe.com/bin/live/readerdc_cn_ha_cra_install.exe
 
-    百度网盘
+9. WinRAR
+
+    http://www.winrar.com.cn/download/winrar-x64-600scp.exe
 
 
 #### 开发工具
