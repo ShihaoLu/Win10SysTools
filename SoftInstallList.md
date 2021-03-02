@@ -74,3 +74,11 @@
     https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
     
 
+### Chrome浏览器书签自动同步
+
+    GitHub
+
+    参考https://www.jianshu.com/p/b37b0d87645d
+
+
+    Token：1c0739b87435691be22808970a53b8ec5c4cf3c0
