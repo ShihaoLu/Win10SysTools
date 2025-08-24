@@ -1,5 +1,5 @@
-::
-::
+::  WinOSInit
+::  LIU Shihao   <liu.shihao@hotmail.com>
 
 
 SET APPNAME=WinOSInit
